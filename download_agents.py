@@ -15,7 +15,7 @@ def main():
     agents = []
     while len(agents) < args.count:
         if agents:
-            # Wait one second between every request
+            # Wait one second between every request ...
             time.sleep(1)
 
         request_count = min(args.count - len(agents), 500)
