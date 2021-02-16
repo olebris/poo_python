@@ -1,4 +1,4 @@
-passdict= {"alecoutur":"Huz4","lmartin":"monty","fsincere":"gnugpl"}
+passdict= {"alecouture":"Huz4","lmartin":"monty","fsincere":"gnugpl"}
 print (passdict)
 login=input("tape ton login ")
 pwd=input("tape ton pwd ")
